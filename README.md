@@ -14,6 +14,8 @@ There are 4 assignments: tic-tac-toe, ball maze, snake, and tic-tac-toe revisite
 
 ## Tic-tac-toe
 
+![tic-tac-toe screenshot](/tttScreenshot.png "Tic-tac-toe on the Sense HAT LED matrix. This screenshot created using a Sense HAT emulator")
+
 The first assignment uses the game tic-tac-toe to provide the students with an
 introduction to working with the RPi and SH. The game has been adapted to work on the
 LED matrix by replacing the 'X's and 'O's used in the paper version of the game with
@@ -40,10 +42,9 @@ middle joystick button, and making a new game start after the end of the current
 As this is meant to be a simple introduction to working with the RPi and SH, the tasks
 are simple.
 
-
-
 ## Ball Maze
 
+![ball maze screenshot](/ballMazeScreenshot.png "An example ball maze on the Sense HAT LED matrix. This screenshot created using a Sense HAT emulator")
 
 The next assignment is based on a ball maze (also called marble maze). A ball maze is
 a handheld game where the goal is to get a small ball from one side of a box to
@@ -77,9 +78,9 @@ and boolean conditions. It can also be expanded to include file input and output
 (requiring that the student writes the code for reading the maze layout and storing
 the shortest time to complete the maze).
 
-
-
 ## Snake
+
+![snake screenshot](/snakeScreenshot.png "Snake on the Sense HAT LED matrix. This screenshot created using a Sense HAT emulator")
 
 The classic game snake has also been used as one of the assignments. The game needed
 no adaptation in order to work on the LED matrix. The user controls the snake via the
