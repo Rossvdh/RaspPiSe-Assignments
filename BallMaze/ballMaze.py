@@ -240,10 +240,3 @@ while playAgain:
 
 sense.clear()
 print("end")
-
-
-
-
-
-
-#####

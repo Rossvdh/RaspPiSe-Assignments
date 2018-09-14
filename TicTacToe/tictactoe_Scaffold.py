@@ -111,20 +111,3 @@ sense.set_pixel(marker[0], marker[1], blue)
 
 print("about to pause")
 pause() #stop execution and wait for event
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#

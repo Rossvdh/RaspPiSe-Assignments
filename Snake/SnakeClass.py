@@ -106,26 +106,3 @@ class SnakeClass:
     def getLength(self):
         """Returns the length of the snake"""
         return len(self.body)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##        

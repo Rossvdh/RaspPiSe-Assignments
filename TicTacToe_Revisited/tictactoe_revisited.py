@@ -289,22 +289,3 @@ if __name__ == "__main__":
 
     print("about to pause")
     pause() #stop execution and wait for event
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#
