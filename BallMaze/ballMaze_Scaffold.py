@@ -170,26 +170,3 @@ while playAgain:
 
 sense.clear()
 print("end end")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#####
