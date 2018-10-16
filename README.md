@@ -6,7 +6,7 @@ This repo contains the assignments for use in the CSC1010H course, (or any intro
 
 ### Project webpage
 
-The project webiste will be online soon. The literature review, proposal, and final report will be available on the website.
+The literature review, proposal, and final report will be available on the [website here.](http://projects.cs.uct.ac.za/honsproj/cgi-bin/view/2018/abdullahi_vanderheyde.zip/)
 
 # The assignments
 
